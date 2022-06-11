@@ -1,0 +1,18 @@
+span{
+  color: brown;
+  text-align: center;
+  font-size: 20px;
+}
+.user{
+  background: #737373;
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+p{
+  /* color: blue; */
+  font-size: 20px;
+}
+h2{
+  color: gold;
+}
